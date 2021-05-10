@@ -8,8 +8,7 @@ output: beamer_presentation
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
-#knitr::opts_chunk$set(tidy=TRUE)
-data <- read_csv("data_sim.csv")
+data <- read_csv("data_simulated.csv")
 ```
 
 ## What is tidy data?
