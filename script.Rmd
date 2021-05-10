@@ -3,10 +3,10 @@ title: "Tutorial - R - Data Wrangling"
 author: "Psychology Tutorial Series - Emily Towner"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
-  pdf_document:
+  html_document:
     toc: yes
     toc_depth: 3
-  html_document:
+  pdf_document:
     toc: yes
     toc_depth: 3
 subtitle: 'Tidying / Cleaning / Scoring'
@@ -70,8 +70,6 @@ mean_imputation <- function(data) {
   return(data_copy)
 }
 ```
-
-
 
 # Somatic
 
