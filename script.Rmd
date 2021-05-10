@@ -129,12 +129,12 @@ ctq$ctq_19 <- recode(ctq$ctq_19, `1` = 5, `2` = 4, `3` = 3, `4` = 2, `5` = 1)
 ctq$ctq_26 <- recode(ctq$ctq_26, `1` = 5, `2` = 4, `3` = 3, `4` = 2, `5` = 1)
 ctq$ctq_28 <- recode(ctq$ctq_28, `1` = 5, `2` = 4, `3` = 3, `4` = 2, `5` = 1)
 
-# Reverse score the minimization/denial subset
+# Reverse score the minimization / denial subset
 ctq$ctq_10 <- recode(ctq$ctq_10, `1` = 5, `2` = 4, `3` = 3, `4` = 2, `5` = 1)
 ctq$ctq_16 <- recode(ctq$ctq_16, `1` = 5, `2` = 4, `3` = 3, `4` = 2, `5` = 1)
 ctq$ctq_22 <- recode(ctq$ctq_22, `1` = 5, `2` = 4, `3` = 3, `4` = 2, `5` = 1)
 
-# Remove the minimization/denial subset from dataset
+# Remove the minimization / denial subset from dataset
 ctq <- ctq %>% dplyr::select(-ctq_10, -ctq_16, -ctq_22)
 
 # Add the variables to create a sum variable
@@ -442,7 +442,7 @@ ggplot(data_scored, aes(x=bdi, y=stai_state)) +
   labs(x = "BDI", y = "STAI State") +
   geom_smooth(method = lm)
 
-# Check the correlation between the ctq and the ace
+# Check the correlation between the bdi and the stai
 cor.test(data_scored$bdi, data_scored$stai_state)
 ```
 
