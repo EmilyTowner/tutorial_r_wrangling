@@ -1,0 +1,477 @@
+participant,ss,ctq,ace,bdi,stai_state,stai_trait,participant_age,participant_sex,participant_sex_other,participant_gender,participant_gender_other,participant_ethnicity,participant_ethnicity_multi
+IN251,15,26,0,8,36,41,20,Female,NA,Woman,NA,Caucasian,0
+IN252,22,49,2,30,56,56,21,Female,NA,Woman,NA,Other,1
+IN253,9,34,0,21,46,40,18,Female,NA,Woman,NA,East Asian,1
+IN254,6,65,3,18,27,45,20,Female,NA,Woman,NA,East Asian,0
+IN255,NA,29,0,14,52,37,20,Male,NA,Man,NA,Latinx/Hispanic,0
+IN256,13,35,0,33,64,67,21,Female,NA,Woman,NA,East Asian,0
+IN257,13,NA,2,22,39,52,19,Female,NA,Woman,NA,Other,1
+IN258,18,36,0,34,62,52,22,Female,NA,Woman,NA,East Asian,0
+IN259,14,39,0,11,31,41,21,Female,NA,Woman,NA,East Asian,0
+IN260,NA,41,2,7,38,28,19,Male,NA,Man,NA,Latinx/Hispanic,0
+IN261,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN262,10,38,3,36,49,60,21,Female,NA,Woman,NA,East Asian,0
+IN263,28,44,1,50,70,78,20,Female,NA,Woman,NA,South Asian,1
+IN264,13,45,1,4,22,33,18,Female,NA,Woman,NA,Other,0
+IN265,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN266,12,49,3,24,45,52,22,Female,NA,Woman,NA,Other,0
+IN267,17,30,1,8,44,37,21,Female,NA,Woman,NA,Other,0
+IN268,19,33,1,17,54,54,20,Female,NA,Nonbinary,NA,East Asian,0
+IN269,1,25,0,2,31,28,18,Female,NA,Woman,NA,East Asian,1
+IN270,16,75,3,4,44,47,20,Female,NA,Woman,NA,Caucasian,0
+IN271,20,35,1,21,42,41,20,Female,NA,Woman,NA,Middle Eastern,0
+IN272,19,45,3,22,56,34,20,Female,NA,Woman,NA,East Asian,0
+IN273,7,27,0,4,42,34,20,Female,NA,Woman,NA,Caucasian,0
+IN274,18,NA,1,18,48,51,20,Female,NA,Woman,NA,East Asian,0
+IN275,13,53,4,21,33,55,21,Female,NA,Woman,NA,East Asian,0
+IN276,18,31,1,26,50,46,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN277,10,31,0,22,45,49,21,Female,NA,Woman,NA,East Asian,0
+IN278,NA,43,0,19,61,65,18,Male,NA,Man,NA,East Asian,1
+IN279,9,25,0,5,54,41,20,Female,NA,Woman,NA,East Asian,0
+IN280,9,28,1,10,29,39,20,Female,NA,Woman,NA,Caucasian,0
+IN281,NA,36,2,17,62,58,25,Male,NA,Man,NA,Middle Eastern,1
+IN282,2,61,3,NA,50,47,21,Female,NA,Woman,NA,Caucasian,0
+IN283,8,25,0,13,47,48,21,Female,NA,Woman,NA,East Asian,0
+IN284,6,25,3,NA,50,49,21,Female,NA,Woman,NA,Middle Eastern,0
+IN285,NA,25,0,1,42,44,20,Male,NA,Man,NA,Other,1
+IN286,NA,49,3,11,50,54,22,Male,NA,Man,NA,Caucasian,0
+IN287,5,26,0,7,36,34,21,Female,NA,Woman,NA,East Asian,0
+IN288,6,NA,2,0,23,22,19,Female,NA,Woman,NA,South Asian,1
+IN289,NA,31,2,3,31,39,21,Male,NA,Man,NA,Latinx/Hispanic,1
+IN290,NA,61,0,12,30,51,23,Male,NA,Man,NA,East Asian,0
+IN291,15,NA,0,19,54,49,22,Female,NA,Woman,NA,Middle Eastern,0
+IN292,4,33,1,13,42,46,20,Female,NA,Woman,NA,South Asian,1
+IN293,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN294,17,27,0,11,46,57,21,Female,NA,Woman,NA,Middle Eastern,1
+IN295,18,33,0,17,43,44,21,Female,NA,Woman,NA,East Asian,0
+IN296,3,29,0,7,37,30,20,Female,NA,Woman,NA,Caucasian,0
+IN297,12,64,4,10,46,48,21,Female,NA,Woman,NA,Middle Eastern,0
+IN298,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN299,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN300,10,38,1,14,43,56,19,Female,NA,Woman,NA,East Asian,0
+IN301,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN302,16,45,0,35,62,64,19,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN303,12,65,4,34,62,62,19,Female,NA,Woman,NA,South Asian,1
+IN304,12,25,0,9,39,44,21,Female,NA,Woman,NA,East Asian,0
+IN305,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN306,16,32,0,9,47,39,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN307,21,45,1,37,56,60,31,Female,NA,Woman,NA,Caucasian,0
+IN308,2,31,0,38,48,54,21,Female,NA,Woman,NA,South Asian,1
+IN309,21,28,0,13,53,40,21,Female,NA,Woman,NA,East Asian,1
+IN310,7,38,1,9,31,49,21,Female,NA,Woman,NA,East Asian,1
+IN311,2,42,0,16,53,53,20,Female,NA,Woman,NA,East Asian,0
+IN312,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN313,17,32,3,27,48,65,19,Female,NA,Woman,NA,East Asian,1
+IN314,NA,49,1,2,43,50,24,Female,NA,Woman,NA,East Asian,1
+IN315,NA,38,1,12,29,33,20,Male,NA,Man,NA,Caucasian,0
+IN316,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN317,15,53,5,33,58,59,21,Female,NA,Woman,NA,African,0
+IN318,15,NA,2,8,21,42,19,Female,NA,Woman,NA,African,0
+IN319,13,47,2,15,52,52,19,Female,NA,Woman,NA,Caucasian,0
+IN320,14,49,1,22,39,53,20,Female,NA,Woman,NA,Middle Eastern,0
+IN321,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN322,3,93,9,3,20,27,34,Female,NA,Woman,NA,Caucasian,0
+IN323,25,28,0,0,37,37,19,Female,NA,Woman,NA,Caucasian,0
+IN324,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN325,3,39,2,7,37,41,20,Female,NA,Woman,NA,East Asian,0
+IN326,8,45,2,30,63,42,22,Female,NA,Woman,NA,Other,0
+IN327,10,27,0,13,38,49,19,Female,NA,Woman,NA,East Asian,0
+IN328,10,26,0,14,40,38,20,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN329,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN330,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN331,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN332,NA,54,5,20,63,63,26,Male,NA,Man,NA,East Asian,1
+IN333,15,29,1,22,63,44,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN334,5,NA,2,16,50,49,20,Female,NA,Woman,NA,South Asian,1
+IN335,16,55,3,10,41,48,20,Female,NA,Woman,NA,Caucasian,0
+IN336,17,59,7,29,59,66,21,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN337,31,25,0,7,43,40,21,Female,NA,Woman,NA,Caucasian,0
+IN338,8,27,0,14,49,52,21,Female,NA,Woman,NA,East Asian,1
+IN339,8,32,2,11,47,45,22,Female,NA,Woman,NA,Caucasian,0
+IN340,8,36,3,15,53,56,23,Female,NA,Woman,NA,Caucasian,0
+IN341,NA,28,0,NA,NA,NA,21,Male,NA,Man,NA,NA,0
+IN342,19,44,2,34,57,57,21,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN343,2,66,NA,1,36,38,23,Female,NA,Woman,NA,East Asian,0
+IN344,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN345,6,36,4,9,44,51,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN346,18,29,0,30,72,57,20,Female,NA,Woman,NA,Caucasian,0
+IN347,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN348,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN349,1,26,0,1,32,37,20,Female,NA,Woman,NA,East Asian,1
+IN350,NA,33,0,7,46,40,21,Male,NA,Man,NA,East Asian,0
+IN351,NA,NA,NA,NA,NA,NA,22,Male,NA,Man,NA,NA,0
+IN352,10,43,4,9,38,30,18,Female,NA,Woman,NA,Other,1
+IN353,13,75,4,15,60,53,21,Female,NA,Woman,NA,East Asian,1
+IN354,22,36,0,14,48,44,21,Female,NA,Woman,NA,East Asian,1
+IN355,13,NA,2,10,37,43,20,Female,NA,Woman,NA,Caucasian,0
+IN356,NA,35,0,10,43,45,21,Male,NA,Man,NA,East Asian,0
+IN357,8,52,2,21,38,48,19,Female,NA,Woman,NA,East Asian,0
+IN358,27,44,3,44,62,66,19,Female,NA,Woman,NA,Caucasian,0
+IN359,11,25,0,4,34,27,19,Female,NA,Woman,NA,Caucasian,0
+IN360,6,52,1,36,66,65,21,Female,NA,Woman,NA,East Asian,0
+IN361,20,32,1,33,64,65,21,Female,NA,Woman,NA,Other,0
+IN362,3,52,2,13,38,46,21,Female,NA,Woman,NA,East Asian,0
+IN363,4,28,1,17,50,49,19,Female,NA,Woman,NA,East Asian,0
+IN364,15,27,0,12,60,49,22,Female,NA,Woman,NA,Caucasian,0
+IN365,6,27,0,22,28,36,19,Female,NA,Woman,NA,African,1
+IN366,5,25,0,2,22,37,19,Female,NA,Woman,NA,East Asian,0
+IN367,9,31,2,8,48,53,18,Female,NA,Woman,NA,East Asian,0
+IN368,11,27,0,9,36,43,20,Female,NA,Woman,NA,Caucasian,0
+IN369,NA,31,0,3,29,45,27,Male,NA,Man,NA,Middle Eastern,0
+IN370,12,31,0,20,65,66,21,Female,NA,Woman,NA,South Asian,1
+IN371,8,31,1,4,29,26,21,Female,NA,Woman,NA,Other,0
+IN372,9,35,0,14,32,62,19,Female,NA,Woman,NA,Other,0
+IN373,NA,52,3,26,56,53,20,Male,NA,Man,NA,South Asian,1
+IN374,4,33,0,6,23,27,22,Female,NA,Woman,NA,East Asian,0
+IN375,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN376,20,37,2,22,49,49,18,Female,NA,Woman,NA,Caucasian,0
+IN377,6,49,5,17,49,50,20,Female,NA,Woman,NA,Other,0
+IN378,NA,26,2,14,46,48,19,Male,NA,Man,NA,Caucasian,0
+IN379,14,42,2,15,35,31,23,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN380,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN381,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN382,NA,30,1,7,42,45,20,Male,NA,Man,NA,Other,0
+IN383,18,31,1,20,42,36,21,Female,NA,Nonbinary,NA,Caucasian,0
+IN384,1,28,2,2,42,43,22,Female,NA,Woman,NA,Caucasian,0
+IN385,12,36,1,11,49,57,21,Female,NA,Woman,NA,Caucasian,0
+IN386,NA,NA,NA,NA,NA,NA,21,Male,NA,Man,NA,NA,0
+IN387,8,30,0,5,46,40,22,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN388,10,41,0,26,68,63,18,Female,NA,Woman,NA,Caucasian,0
+IN389,5,45,3,10,52,49,19,Female,NA,Woman,NA,Caucasian,0
+IN390,NA,79,0,8,50,43,22,Male,NA,Man,NA,South Asian,1
+IN391,3,25,0,6,31,37,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN392,10,44,2,28,56,54,20,Female,NA,Woman,NA,South Asian,1
+IN393,13,54,5,21,46,56,20,Female,NA,Woman,NA,South Asian,1
+IN394,NA,27,0,20,58,55,20,Male,NA,Man,NA,Caucasian,0
+IN395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN396,16,NA,5,32,70,68,18,Female,NA,Woman,NA,East Asian,0
+IN397,28,NA,3,56,75,76,18,Female,NA,Woman,NA,East Asian,0
+IN398,16,29,0,10,43,37,21,Female,NA,Woman,NA,East Asian,1
+IN399,6,27,1,6,NA,NA,23,Female,NA,Woman,NA,NA,0
+IN400,3,28,0,13,35,49,19,Female,NA,Woman,NA,East Asian,0
+IN401,11,56,5,38,66,61,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN402,NA,30,0,13,35,34,21,Male,NA,Man,NA,East Asian,0
+IN403,14,53,3,16,28,44,18,Female,NA,Woman,NA,East Asian,0
+IN404,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN405,11,28,0,14,52,59,19,Female,NA,Woman,NA,East Asian,0
+IN406,8,27,0,5,37,32,18,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN407,9,36,1,12,30,40,20,Female,NA,Woman,NA,South Asian,1
+IN408,NA,34,0,13,40,42,20,Male,NA,Man,NA,East Asian,0
+IN409,5,26,1,13,50,48,18,Female,NA,Woman,NA,East Asian,0
+IN410,0,31,1,1,29,36,20,Female,NA,Woman,NA,South Asian,1
+IN411,22,33,0,17,37,54,21,Female,NA,Woman,NA,East Asian,0
+IN412,3,33,1,4,36,42,20,Female,NA,Woman,NA,East Asian,0
+IN413,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN414,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN415,12,44,3,28,53,58,22,Female,NA,Woman,NA,Other,0
+IN416,NA,33,1,4,34,38,20,Male,NA,Woman,NA,Other,0
+IN417,12,37,0,21,59,60,18,Female,NA,Woman,NA,East Asian,0
+IN418,12,29,0,12,32,42,18,Female,NA,Woman,NA,East Asian,0
+IN419,11,31,0,1,35,44,21,Female,NA,Woman,NA,Caucasian,0
+IN420,20,44,2,14,47,46,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN421,7,29,0,2,41,48,22,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN422,8,32,1,1,24,28,28,Female,NA,Woman,NA,East Asian,0
+IN423,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN424,16,28,1,29,73,60,18,Female,NA,Woman,NA,Middle Eastern,0
+IN425,13,39,2,41,52,65,22,Female,NA,Woman,NA,Caucasian,0
+IN426,8,25,0,10,38,29,20,Female,NA,Woman,NA,Caucasian,0
+IN427,9,42,4,11,47,52,18,Female,NA,Woman,NA,Caucasian,0
+IN428,20,43,2,24,58,56,20,Female,NA,Woman,NA,South Asian,1
+IN429,NA,25,0,13,38,45,19,Male,NA,Man,NA,East Asian,0
+IN430,5,31,1,26,NA,NA,20,Female,NA,Woman,NA,NA,0
+IN431,6,37,2,7,33,36,20,Female,NA,Woman,NA,Other,0
+IN432,6,29,0,17,36,57,18,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN433,6,31,0,18,54,55,20,Female,NA,Woman,NA,East Asian,0
+IN434,15,62,5,8,50,49,21,Female,NA,Woman,NA,South Asian,1
+IN435,8,36,1,10,57,34,25,Female,NA,Woman,NA,Caucasian,0
+IN436,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN437,18,40,2,16,74,57,18,Female,NA,Woman,NA,Caucasian,0
+IN438,NA,NA,0,9,26,52,34,Male,NA,Man,NA,Caucasian,0
+IN439,13,25,0,16,57,56,19,Female,NA,Woman,NA,Caucasian,0
+IN440,11,33,2,14,33,28,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN441,0,39,0,14,49,61,18,Female,NA,Woman,NA,East Asian,0
+IN442,7,28,0,4,46,50,21,Female,NA,Woman,NA,East Asian,0
+IN443,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN444,NA,51,4,19,51,51,20,Male,NA,Man,NA,Other,1
+IN445,14,28,2,23,53,58,18,Female,NA,Woman,NA,South Asian,1
+IN446,0,25,0,3,35,36,21,Female,NA,Woman,NA,East Asian,0
+IN447,16,49,4,2,34,45,19,Female,NA,Woman,NA,East Asian,0
+IN448,12,25,0,10,33,48,18,Female,NA,Woman,NA,Middle Eastern,1
+IN449,12,32,1,15,49,48,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN450,20,41,2,16,55,66,20,Female,NA,Woman,NA,East Asian,0
+IN451,NA,33,3,7,43,37,23,Male,NA,Man,NA,Caucasian,0
+IN452,12,42,0,15,47,47,19,Female,NA,Woman,NA,East Asian,0
+IN453,16,65,6,22,51,53,19,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN454,NA,33,NA,22,34,50,18,Male,NA,Man,NA,Caucasian,0
+IN455,NA,30,2,2,39,40,19,Male,NA,Man,NA,Middle Eastern,0
+IN456,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN457,NA,NA,NA,NA,NA,NA,21,Female,NA,Woman,NA,NA,0
+IN458,NA,30,1,15,29,34,18,Male,NA,Man,NA,East Asian,0
+IN459,NA,25,0,6,31,23,21,Male,NA,Man,NA,Caucasian,0
+IN460,NA,50,2,29,59,68,20,Male,NA,Man,NA,Caucasian,0
+IN461,19,54,1,13,34,48,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN462,14,26,0,7,47,49,19,Female,NA,Woman,NA,Caucasian,0
+IN463,9,63,6,28,54,55,20,Female,NA,Nonbinary,NA,Latinx/Hispanic,0
+IN464,17,37,1,19,41,38,18,Female,NA,Woman,NA,Other,0
+IN465,NA,35,0,1,31,30,19,Male,NA,Man,NA,Other,0
+IN466,9,32,2,8,45,50,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN467,19,50,5,21,77,67,21,Female,NA,Woman,NA,African,0
+IN468,3,28,0,18,42,42,20,Female,NA,Woman,NA,Caucasian,0
+IN469,NA,26,1,1,37,39,23,Male,NA,Man,NA,Middle Eastern,0
+IN470,11,64,3,11,41,49,21,Female,NA,Woman,NA,East Asian,0
+IN471,10,28,0,11,45,50,19,Female,NA,Woman,NA,East Asian,0
+IN472,NA,28,1,7,24,31,19,Male,NA,Man,NA,East Asian,0
+IN473,9,41,2,44,70,70,19,Female,NA,Woman,NA,South Asian,1
+IN474,8,46,2,10,47,49,18,Female,NA,Woman,NA,East Asian,0
+IN475,13,30,0,18,54,49,21,Female,NA,Woman,NA,East Asian,0
+IN476,9,39,3,13,45,35,19,Female,NA,Woman,NA,Middle Eastern,1
+IN477,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN478,13,30,0,10,50,52,19,Female,NA,Woman,NA,East Asian,0
+IN479,14,47,0,7,41,51,21,Female,NA,Woman,NA,Caucasian,0
+IN480,5,33,0,17,61,55,17,Female,NA,Woman,NA,East Asian,1
+IN481,6,26,0,13,38,43,21,Female,NA,Woman,NA,Middle Eastern,0
+IN482,NA,28,0,NA,NA,NA,20,Male,NA,Man,NA,NA,0
+IN483,10,33,1,9,57,43,24,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN484,10,38,2,29,41,23,NA,Female,NA,Woman,NA,Middle Eastern,0
+IN485,8,27,1,4,26,23,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN486,6,35,1,12,49,47,19,Female,NA,Woman,NA,East Asian,0
+IN487,NA,25,0,5,34,35,20,Male,NA,Man,NA,Other,1
+IN488,NA,25,0,3,26,44,20,Male,NA,Man,NA,Latinx/Hispanic,0
+IN489,23,41,1,28,33,57,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN490,NA,27,0,6,47,34,21,Male,NA,Man,NA,Latinx/Hispanic,0
+IN491,NA,77,8,40,56,65,29,Male,NA,Man,NA,Latinx/Hispanic,0
+IN492,11,31,1,5,34,39,21,Female,NA,Woman,NA,East Asian,0
+IN493,21,25,1,48,64,68,19,Female,NA,Woman,NA,Caucasian,0
+IN494,8,27,0,9,45,49,20,Female,NA,Woman,NA,East Asian,0
+IN495,6,35,1,19,46,53,19,Female,NA,Woman,NA,Caucasian,0
+IN496,6,29,0,3,47,43,19,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN497,8,54,3,15,49,49,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN498,NA,36,0,19,48,59,19,Male,NA,Man,NA,Other,0
+IN499,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN500,3,31,1,4,43,58,20,Female,NA,Woman,NA,Other,0
+IN501,12,61,4,26,58,60,24,Female,NA,Woman,NA,Caucasian,0
+IN502,5,30,0,5,44,38,21,Female,NA,Woman,NA,South Asian,1
+IN503,5,37,2,3,30,29,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN504,8,27,0,20,43,48,20,Female,NA,Woman,NA,South Asian,1
+IN505,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN506,12,27,1,3,38,44,18,Female,NA,Woman,NA,African,0
+IN507,19,48,5,15,64,55,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN508,9,29,0,6,38,35,21,Female,NA,Woman,NA,East Asian,1
+IN509,10,32,0,5,52,42,19,Female,NA,Woman,NA,Other,0
+IN510,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN511,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN512,NA,29,0,5,26,39,19,Male,NA,Man,NA,East Asian,1
+IN513,22,43,4,12,40,38,19,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN514,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN515,6,26,0,1,41,39,21,Female,NA,Woman,NA,East Asian,0
+IN516,15,37,1,28,61,55,18,Female,NA,Woman,NA,Caucasian,0
+IN517,3,26,1,6,48,37,19,Female,NA,Woman,NA,Caucasian,0
+IN518,NA,31,1,1,37,37,21,Male,NA,Man,NA,South Asian,1
+IN519,0,34,0,NA,NA,NA,21,Female,NA,Woman,NA,NA,0
+IN520,NA,39,1,14,53,57,18,Male,NA,Man,NA,East Asian,0
+IN521,15,26,1,12,54,51,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN522,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN523,14,42,1,18,48,45,21,Female,NA,Woman,NA,South Asian,1
+IN524,5,60,4,24,49,55,18,Female,NA,Woman,NA,East Asian,0
+IN525,1,41,1,1,53,48,20,Female,NA,Woman,NA,Other,1
+IN526,5,25,0,6,32,33,21,Female,NA,Woman,NA,African,1
+IN527,6,25,0,16,51,46,31,Female,NA,Woman,NA,Caucasian,0
+IN528,NA,33,0,4,41,42,18,Male,NA,Man,NA,NA,0
+IN529,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN530,NA,NA,NA,NA,NA,NA,21,Female,NA,Woman,NA,NA,0
+IN531,NA,28,1,12,56,49,21,Male,NA,Man,NA,Other,0
+IN532,14,41,0,17,44,45,20,Female,NA,Woman,NA,Other,0
+IN533,20,26,1,22,58,59,19,Female,NA,Woman,NA,Other,0
+IN534,NA,40,3,7,57,37,23,Male,NA,Man,NA,Middle Eastern,1
+IN535,5,27,1,29,57,62,19,Female,NA,Woman,NA,Caucasian,0
+IN536,0,25,1,0,20,26,20,Female,NA,Woman,NA,East Asian,0
+IN537,11,55,3,37,59,67,18,Female,NA,Woman,NA,East Asian,0
+IN538,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN539,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN540,11,54,6,32,68,76,19,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN541,NA,NA,NA,NA,NA,NA,21,Female,NA,Woman,NA,NA,0
+IN542,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN543,16,44,4,31,57,49,20,Female,NA,Woman,NA,East Asian,0
+IN544,18,71,5,36,74,64,29,Female,NA,Woman,NA,African,1
+IN545,5,27,1,2,22,32,19,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN546,NA,34,0,2,24,29,21,Male,NA,Man,NA,Middle Eastern,0
+IN547,3,26,0,6,33,34,21,Female,NA,Woman,NA,Caucasian,0
+IN548,9,28,1,10,39,38,18,Female,NA,Woman,NA,Caucasian,0
+IN549,NA,25,0,2,30,30,21,Male,NA,Man,NA,East Asian,0
+IN550,14,67,3,6,49,48,20,Female,NA,Woman,NA,East Asian,0
+IN551,5,42,2,5,40,44,18,Female,NA,Nonbinary,NA,Other,0
+IN552,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN553,5,31,1,3,29,31,20,Female,NA,Woman,NA,Caucasian,0
+IN554,13,25,0,8,36,36,20,Female,NA,Woman,NA,Caucasian,0
+IN555,17,30,0,29,66,69,19,Female,NA,Woman,NA,Caucasian,0
+IN556,NA,27,0,5,43,42,19,NA,NA,NA,NA,NA,0
+IN557,11,59,3,14,43,54,19,Female,NA,Woman,NA,East Asian,0
+IN558,7,44,1,4,30,33,20,Female,NA,Woman,NA,Middle Eastern,1
+IN559,9,36,0,9,45,53,20,Female,NA,Woman,NA,East Asian,0
+IN560,4,58,3,1,21,26,22,Female,NA,Woman,NA,East Asian,0
+IN561,14,40,0,19,54,47,20,Female,NA,Woman,NA,East Asian,0
+IN562,16,42,4,35,64,63,20,Female,NA,Woman,NA,East Asian,0
+IN563,1,NA,2,5,31,39,21,Female,NA,Woman,NA,Other,0
+IN564,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN565,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN566,17,30,0,36,63,53,18,Female,NA,Woman,NA,East Asian,0
+IN567,NA,39,1,21,60,60,33,Male,NA,Man,NA,Latinx/Hispanic,1
+IN568,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN569,27,43,2,41,63,62,19,Female,NA,Woman,NA,South Asian,1
+IN570,6,50,3,8,33,36,22,Female,NA,Woman,NA,Caucasian,0
+IN571,12,35,0,4,42,31,21,Female,NA,Woman,NA,East Asian,0
+IN572,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN573,6,26,2,7,33,35,21,Female,NA,Woman,NA,Caucasian,0
+IN574,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN575,20,64,5,28,55,59,19,Female,NA,Woman,NA,Caucasian,0
+IN576,3,25,0,1,57,43,19,Female,NA,Woman,NA,Caucasian,0
+IN577,NA,40,2,4,25,26,18,Male,NA,Man,NA,South Asian,1
+IN578,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN579,21,45,3,22,55,41,22,Female,NA,Woman,NA,East Asian,0
+IN580,9,41,1,17,57,58,22,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN581,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN582,NA,33,0,1,28,31,21,Male,NA,Man,NA,Other,0
+IN583,12,NA,0,10,49,46,20,Female,NA,Woman,NA,South Asian,1
+IN584,22,27,5,28,52,55,18,Female,NA,Woman,NA,Caucasian,0
+IN585,11,26,1,11,33,32,19,Female,NA,Woman,NA,African,0
+IN586,16,26,0,12,32,42,21,Female,NA,Woman,NA,Caucasian,0
+IN587,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN588,18,38,1,23,50,54,21,Female,NA,Woman,NA,South Asian,1
+IN589,11,77,5,15,45,42,19,Female,NA,Woman,NA,Middle Eastern,1
+IN590,5,26,0,0,20,25,20,Female,NA,Woman,NA,Caucasian,0
+IN591,NA,26,0,3,26,25,19,Male,NA,Man,NA,South Asian,1
+IN592,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN593,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN594,18,52,4,28,59,57,23,Female,NA,Woman,NA,Other,1
+IN595,10,58,4,26,37,58,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN596,NA,35,0,20,45,46,20,Male,NA,Man,NA,Latinx/Hispanic,0
+IN597,16,66,9,43,71,69,19,Female,NA,Woman,NA,Other,0
+IN598,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN599,20,79,5,27,67,61,25,Female,NA,Woman,NA,East Asian,0
+IN600,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN601,13,40,2,17,49,56,19,Female,NA,Woman,NA,Caucasian,0
+IN602,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN603,15,60,4,8,28,57,21,Female,NA,Woman,NA,Caucasian,0
+IN604,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN605,12,43,4,3,31,38,30,Female,NA,Woman,NA,Caucasian,0
+IN606,11,33,0,13,32,41,19,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN607,4,39,2,0,53,50,21,Female,NA,Woman,NA,East Asian,1
+IN608,10,27,0,10,47,51,19,Female,NA,Woman,NA,South Asian,1
+IN609,4,45,3,12,54,56,19,Female,NA,Woman,NA,Caucasian,0
+IN610,19,36,0,27,51,54,18,Female,NA,Woman,NA,South Asian,1
+IN611,NA,54,3,13,43,36,21,Male,NA,Man,NA,Latinx/Hispanic,0
+IN612,7,35,2,12,36,32,21,Female,NA,Woman,NA,East Asian,0
+IN613,11,28,0,15,39,46,21,Female,NA,Woman,NA,East Asian,0
+IN614,18,39,2,17,41,49,18,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN615,11,25,1,21,37,49,21,Female,NA,Woman,NA,Caucasian,0
+IN616,15,39,3,43,73,78,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN617,21,52,4,27,66,61,20,Female,NA,Woman,NA,East Asian,0
+IN618,NA,25,1,6,35,37,19,Male,NA,Man,NA,Middle Eastern,0
+IN619,13,45,4,15,37,38,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN620,13,42,1,20,57,49,18,Female,NA,Woman,NA,Other,0
+IN621,NA,31,1,12,49,43,21,Male,NA,Man,NA,Latinx/Hispanic,0
+IN622,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN623,NA,44,0,48,64,70,20,Male,NA,Woman,NA,Other,0
+IN624,10,68,3,25,62,56,23,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN625,NA,32,0,9,33,41,20,Male,NA,Man,NA,East Asian,1
+IN626,NA,NA,NA,NA,NA,NA,21,Female,NA,Woman,NA,NA,0
+IN627,24,65,5,44,55,65,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN628,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN629,25,28,0,1,28,28,18,Female,NA,Woman,NA,East Asian,0
+IN630,15,56,3,35,73,56,21,Female,NA,Woman,NA,East Asian,0
+IN631,15,54,4,17,62,51,18,Female,NA,Woman,NA,African,0
+IN632,8,26,0,7,40,42,18,Female,NA,Woman,NA,East Asian,0
+IN633,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN634,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN635,13,56,7,29,71,68,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN636,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN637,NA,NA,NA,NA,NA,NA,20,Female,NA,Woman,NA,NA,0
+IN638,18,42,1,21,64,58,18,Female,NA,Woman,NA,Caucasian,0
+IN639,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN640,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN641,NA,NA,NA,NA,NA,NA,NA,Male,NA,Man,NA,NA,0
+IN642,13,25,2,5,31,32,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN643,11,88,2,39,63,61,21,Female,NA,Woman,NA,East Asian,0
+IN644,25,63,4,33,66,54,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN645,8,27,0,18,NA,NA,21,Female,NA,Woman,NA,Caucasian,0
+IN646,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN647,3,32,0,10,42,48,20,Female,NA,Woman,NA,East Asian,0
+IN648,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN649,15,40,2,NA,NA,NA,19,Female,NA,Woman,NA,NA,0
+IN650,11,25,0,21,49,47,18,Female,NA,Woman,NA,Middle Eastern,0
+IN651,16,32,1,22,58,56,19,Female,NA,Woman,NA,Caucasian,0
+IN652,NA,NA,NA,NA,NA,NA,18,Female,NA,Woman,NA,NA,0
+IN653,16,28,2,24,46,57,20,Female,NA,Woman,NA,Other,0
+IN654,NA,NA,3,2,25,25,20,Male,NA,Man,NA,Caucasian,0
+IN655,9,44,1,12,26,41,20,Female,NA,Woman,NA,African,0
+IN656,15,25,0,5,33,39,21,Female,NA,Woman,NA,East Asian,0
+IN657,9,61,4,26,47,68,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN658,19,42,2,21,68,59,22,Female,NA,Woman,NA,Caucasian,0
+IN659,18,35,6,15,62,44,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN660,15,42,1,16,38,43,25,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN661,7,84,6,0,39,42,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN662,NA,86,9,38,61,68,28,Other,NA,Nonbinary,NA,Latinx/Hispanic,0
+IN663,NA,NA,3,23,63,56,19,Male,NA,Nonbinary,NA,Caucasian,0
+IN664,20,48,2,8,65,50,20,Female,NA,Woman,NA,Caucasian,0
+IN665,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN666,8,32,0,12,42,55,19,Female,NA,Woman,NA,Other,0
+IN667,6,30,0,22,41,37,19,Female,NA,Woman,NA,East Asian,0
+IN668,18,52,1,18,59,51,21,Female,NA,Woman,NA,Other,1
+IN669,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN670,16,26,0,7,57,41,20,Female,NA,Woman,NA,Middle Eastern,0
+IN671,10,27,0,18,NA,NA,18,Female,NA,Woman,NA,NA,0
+IN672,13,53,5,19,57,63,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN673,5,25,0,13,29,44,18,Female,NA,Woman,NA,South Asian,1
+IN674,10,38,NA,NA,NA,NA,21,Female,NA,Woman,NA,NA,0
+IN675,9,31,1,10,42,30,19,Female,NA,Woman,NA,Caucasian,0
+IN676,6,27,0,7,34,29,21,Female,NA,Woman,NA,Caucasian,0
+IN677,10,61,3,17,49,52,21,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN678,NA,33,0,13,56,51,21,Male,NA,Man,NA,South Asian,1
+IN679,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN680,9,34,1,12,50,47,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN681,5,38,0,10,51,39,18,Female,NA,Woman,NA,East Asian,0
+IN682,7,25,0,6,22,34,19,Female,NA,Woman,NA,East Asian,0
+IN683,20,27,1,0,36,37,20,Female,NA,Woman,NA,East Asian,0
+IN684,15,34,0,17,56,54,20,Female,NA,Woman,NA,South Asian,1
+IN685,NA,29,0,10,23,43,18,Male,NA,Man,NA,Caucasian,0
+IN686,NA,37,1,10,50,50,21,Male,NA,Man,NA,East Asian,0
+IN687,9,39,1,35,50,68,19,Female,NA,Woman,NA,East Asian,0
+IN688,15,74,6,32,65,62,21,Female,NA,Woman,NA,East Asian,0
+IN689,6,56,3,NA,56,54,18,Female,NA,Woman,NA,East Asian,0
+IN690,15,37,2,28,62,53,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN691,1,25,0,0,34,31,19,Female,NA,Woman,NA,Middle Eastern,0
+IN692,NA,29,0,22,48,57,19,Male,NA,Man,NA,East Asian,0
+IN693,NA,25,0,7,40,38,21,Male,NA,Man,NA,Caucasian,0
+IN694,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN695,11,NA,NA,13,35,32,20,Female,NA,Woman,NA,East Asian,0
+IN696,9,32,1,17,50,56,18,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN697,2,31,0,31,61,50,20,Female,NA,Woman,NA,Caucasian,0
+IN698,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN699,15,63,5,21,46,45,22,Female,NA,Woman,NA,East Asian,0
+IN700,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN701,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN702,19,42,0,6,31,37,20,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN703,11,26,0,9,53,36,19,Female,NA,Woman,NA,Caucasian,0
+IN704,3,30,1,5,42,43,21,Female,NA,Woman,NA,Caucasian,0
+IN705,NA,28,0,17,41,49,18,Male,NA,Man,NA,East Asian,0
+IN706,4,30,0,18,53,39,18,Female,NA,Woman,NA,South Asian,1
+IN707,11,27,0,9,40,36,19,Female,NA,Woman,NA,East Asian,0
+IN708,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN709,5,45,4,23,58,59,22,Female,NA,Woman,NA,Latinx/Hispanic,0
+IN710,NA,42,2,3,32,32,20,Male,NA,Man,NA,Caucasian,0
+IN711,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN712,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN713,NA,26,0,13,35,44,21,Male,NA,Man,NA,South Asian,1
+IN714,NA,31,0,1,31,29,20,Male,NA,Man,NA,East Asian,0
+IN715,2,30,0,4,30,33,19,Female,NA,Woman,NA,Other,0
+IN716,12,36,0,19,43,57,18,Female,NA,Woman,NA,Caucasian,0
+IN717,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN718,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN719,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN720,12,37,1,15,58,62,21,Female,NA,Woman,NA,East Asian,0
+IN721,18,38,2,22,45,47,19,Female,NA,Woman,NA,NA,0
+IN722,9,32,0,4,36,34,20,Female,NA,Woman,NA,Caucasian,0
+IN723,12,29,0,2,23,35,19,Female,NA,Woman,NA,East Asian,0
+IN724,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0
+IN725,NA,82,1,20,44,49,22,Female,NA,Woman,NA,Latinx/Hispanic,1
+IN726,15,40,1,32,67,47,25,Female,NA,Woman,NA,East Asian,0
